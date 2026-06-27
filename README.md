@@ -11,15 +11,12 @@ A relational database solution designed to manage and track the core operations 
 * **Relational Integrity:** Enforced using explicit foreign key constraints across all transactional tables.
 * **Complete Workflow Coverage:** Tracks the medical journey through 5 interconnected tables (`patients`, `healthworker`, `appointment`, `visit`, and `medicalrecords`).
 * **Optimized Storage:** Tailored schemas utilizing indexed primary keys, auto-increment fields, and proper data types.
-
 ---
-
 ## 🛠️ Tech Stack & Database Environment
 
 * **Database Engine:** MariaDB (v10.4.25) / MySQL
 * **Management Client:** phpMyAdmin (v5.2.0)
 * **Language:** SQL
-
 ---
 
 ## 📐 Schema Overview & Architecture
